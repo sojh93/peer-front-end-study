@@ -1,9 +1,5 @@
 # Front end Pair 프로젝트
 
-
-
-> check list (실습) <br>
-
 ## git
 
 git과 친해지기
